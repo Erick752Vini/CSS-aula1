@@ -1,0 +1,40 @@
+h1 {
+    color:brown;
+}
+
+.portugues {
+    color:blue;
+}
+
+#espanhol {
+    color:blueviolet;
+}
+
+.display {
+    background-color: aqua;
+    padding: 50px;
+    width: 70%;
+}
+
+.display-blue {
+    background-color: navajowhite;
+    padding: 50px;
+    width: 30%
+}
+
+.display-red {
+    background-color: aquamarine;
+    padding: 50px;
+    width: 30%
+}
+
+
+.flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.row {
+    background-color: antiquewhite;
+    text-align: center;
+}
